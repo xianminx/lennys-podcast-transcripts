@@ -8,26 +8,30 @@ Master index of all compiled articles. Auto-maintained by LLM.
 
 ## Articles
 
-*No compiled articles yet. Run "compile" commands to synthesize insights from the 303 episode transcripts into concept-based articles.*
+| Article | Tags | Episodes | Updated |
+|---------|------|----------|---------|
+| [[Fundraising]] | #fundraising #venture-capital #startups #pitch-decks #bootstrapping | 35+ | 2026-04-07 |
+| [[Product-Market Fit]] | #product-market-fit #pmf #retention #growth #startups #metrics | 17+ | 2026-04-07 |
+| [[Startups]] | #startups #entrepreneurship #founding #scaling #co-founders #pivoting #execution | 22+ | 2026-04-07 |
 
 ## Suggested First Articles
 
 Based on the episode index, these high-coverage topics are prime candidates for wiki compilation:
 
-| Topic | Episodes | Priority |
-|-------|----------|----------|
-| Product Management | 57+ | High |
-| Entrepreneurship | 52+ | High |
-| Career Development | 40+ | High |
-| Growth Strategy | 33+ | High |
-| AI | 27+ | High |
-| Company Culture | 22+ | Medium |
-| Decision Making | 21+ | Medium |
-| Product-Market Fit | 20+ | Medium |
-| Leadership | 18+ | Medium |
-| Hiring | 17+ | Medium |
-| Experimentation | 17+ | Medium |
-| Startups | 17+ | Medium |
+| Topic              | Episodes | Priority |
+| ------------------ | -------- | -------- |
+| Product Management | 57+      | High     |
+| Entrepreneurship   | 52+      | High     |
+| Career Development | 40+      | High     |
+| Growth Strategy    | 33+      | High     |
+| AI                 | 27+      | High     |
+| Company Culture    | 22+      | Medium   |
+| Decision Making    | 21+      | Medium   |
+| Product-Market Fit | 20+      | Medium   |
+| Leadership         | 18+      | Medium   |
+| Hiring             | 17+      | Medium   |
+| Experimentation    | 17+      | Medium   |
+| Startups           | 17+      | Medium   |
 
 ## Existing Resources
 
@@ -37,4 +41,20 @@ Based on the episode index, these high-coverage topics are prime candidates for 
 
 ## By Tag
 
-*Tags will be listed here as articles are compiled.*
+- **#bootstrapping**: [[Fundraising]]
+- **#co-founders**: [[Startups]]
+- **#entrepreneurship**: [[Startups]]
+- **#execution**: [[Startups]]
+- **#founding**: [[Startups]]
+- **#fundraising**: [[Fundraising]]
+- **#growth**: [[Product-Market Fit]]
+- **#investor-relations**: [[Fundraising]]
+- **#metrics**: [[Product-Market Fit]]
+- **#pitch-decks**: [[Fundraising]]
+- **#pivoting**: [[Startups]]
+- **#pmf**: [[Product-Market Fit]]
+- **#product-market-fit**: [[Product-Market Fit]]
+- **#retention**: [[Product-Market Fit]]
+- **#scaling**: [[Startups]]
+- **#startups**: [[Fundraising]], [[Product-Market Fit]], [[Startups]]
+- **#venture-capital**: [[Fundraising]]
