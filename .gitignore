@@ -1,0 +1,6 @@
+# Obsidian - session state (changes constantly, not portable)
+.obsidian/workspace.json
+.obsidian/graph.json
+
+# OS
+.DS_Store
